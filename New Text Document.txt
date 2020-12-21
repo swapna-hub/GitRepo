@@ -1,0 +1,9 @@
+1 time config
+
+user.name
+user.email
+
+init repo /
+git clone <URL>
+
+MASTER :--> default branch
