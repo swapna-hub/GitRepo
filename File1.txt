@@ -2,8 +2,8 @@ This is my First File.
 Welcome to Git!!!!!
 
 Class HelloGit{
-main(){
-sysout("Hey Hello git....")
+			public Static Void main(){
+				sysout("Hey Hello git....")
 
 }
 
